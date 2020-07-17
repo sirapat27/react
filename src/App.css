@@ -1,6 +1,8 @@
 .App {
   text-align: center;
+  background-color: white;
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +38,12 @@
     transform: rotate(360deg);
   }
 }
+
+.CommentInput{
+  margin-top: 100;
+  
+}
+
+
+table, th, td {
+  border: "1px solid blackdddddd" }
